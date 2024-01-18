@@ -1,6 +1,5 @@
 # Taller: Creación de API REST con Node JS y MySQL
-
-## Proyecto diagnóstico por alcaldía 2022
+[![6d71aac1-bf22-4c9e-b4b9-637d862b4a43.png](https://i.postimg.cc/J4WKRRWx/6d71aac1-bf22-4c9e-b4b9-637d862b4a43.png)](https://postimg.cc/SjDcrFRY)
 ### Tecnologías:
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
