@@ -1,0 +1,11 @@
+###
+POST http://localhost:8000/api/taller/insertarEstudiante
+
+###
+GET http://localhost:8000/api/taller/verEstudiantes
+
+###
+PUT http://localhost:8000/api/taller/actualizarEstudiante/7
+
+###
+DELETE  http://localhost:8000/api/taller//eliminarEstudiante/7
